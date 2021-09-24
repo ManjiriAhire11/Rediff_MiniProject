@@ -1,0 +1,8 @@
+Program Started
+Login – Pass - Logged In Successfully
+Read Excel - Pass - Read Excel Successful!
+Stock - Tech Mahindra - Exists Already!!
+Stock - Maruti Suzuki - Exists Already!!
+Stock - Cipla - Exists Already!!
+Stock - bharat petroleum - Exists Already!!
+Program Ended
